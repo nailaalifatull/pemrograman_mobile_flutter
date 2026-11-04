@@ -1,9 +1,11 @@
-**Pertemuan 3**
+**Pertemuan 3 di branch main**
 
-**Nama**        : Naila Alifatul Mabruroh
-**NIM**         : H1D024043
-**Shift KRS**   : C
-**Shift Baru**  : F
+**Nama**       : Naila Alifatul Mabruroh  
+**NIM**        : H1D024043  
+**Shift KRS**  : C  
+**Shift Baru** : F
+
+* Belajarflutter - Pertemuan 3
 
 
 <img width="1080" height="2400" alt="Screenshot_20261104_171626" src="https://github.com/user-attachments/assets/258031f1-2e00-42f0-9bc7-9d69e999e0d3" />
