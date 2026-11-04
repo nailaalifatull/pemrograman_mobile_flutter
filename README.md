@@ -1,17 +1,17 @@
-# pemrograman_mobile_3
+**Pertemuan 3**
 
-pertemuan_3
+**Nama**        : Naila Alifatul Mabruroh
+**NIM**         : H1D024043
+**Shift KRS**   : C
+**Shift Baru**  : F
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="1080" height="2400" alt="Screenshot_20261104_171626" src="https://github.com/user-attachments/assets/258031f1-2e00-42f0-9bc7-9d69e999e0d3" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1080" height="2400" alt="Screenshot_20261104_171718" src="https://github.com/user-attachments/assets/ebfdc20e-76ab-4e64-91c8-bcbd7fa965b2" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<img width="1080" height="2400" alt="Screenshot_20261104_171737" src="https://github.com/user-attachments/assets/98e3bbaf-449c-4a08-ab91-d523be9a097c" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
