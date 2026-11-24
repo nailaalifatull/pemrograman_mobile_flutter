@@ -1,17 +1,15 @@
-# tokokita
+MODUL 4
 
-A new Flutter project.
+List Produk
+<img width="1080" height="2400" alt="Screenshot_20261124_204901" src="https://github.com/user-attachments/assets/f325b744-fea6-4b89-ac96-5363296d850a" />
 
-## Getting Started
+Tambah Produk
+<img width="1080" height="2400" alt="Screenshot_20261124_204916" src="https://github.com/user-attachments/assets/177404ce-620b-4861-ab86-623de70ee484" />
 
-This project is a starting point for a Flutter application.
+Detail Produk
+<img width="1080" height="2400" alt="Screenshot_20261124_204941" src="https://github.com/user-attachments/assets/78a0acf6-f307-42ed-bd37-cf6cc3e96037" />
 
-A few resources to get you started if this is your first Flutter project:
+Logout
+<img width="1080" height="2400" alt="Screenshot_20261124_204928" src="https://github.com/user-attachments/assets/f86c8214-4e86-4171-bc59-1e845c3d27a0" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
