@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pemrograman_mobile_3/sidemenu.dart';
+import 'package:tokokita/sidemenu.dart';
 
 class AboutPage extends StatelessWidget {
   const AboutPage({super.key});

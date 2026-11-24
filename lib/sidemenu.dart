@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pemrograman_mobile_3/home_page.dart';
-import 'package:pemrograman_mobile_3/about_page.dart'; // Tambahan untuk halaman About
+import 'package:tokokita/home_page.dart';
+import 'package:tokokita/about_page.dart'; // Tambahan untuk halaman About
 
 class Sidemenu extends StatelessWidget {
   const Sidemenu({Key? key}) : super(key: key);
